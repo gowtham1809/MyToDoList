@@ -22,7 +22,7 @@ body {
 
 #header {
   width: 100%;
-  padding:  0.25em;
+  padding:  0.25rem;
   background-color: mediumblue;
   color: aliceblue;
   display: flex;
