@@ -4,7 +4,7 @@ const Header =(props)=>{
     return (
         <header id='header' /*style={headstyle}*/>
         
-      <img src={logo} style={headstyle}className='App-logo /*textcenter*/' alt="logo"/>
+      <img src={logo} className='App-logo' alt="logo"/>
       <h1 /*className='textcenter'*/>{props.title}</h1>
       </header>
     )
