@@ -1,6 +1,6 @@
 import logo from'./logo.svg';
 const Header =(props)=>{
-    const headstyle={color:'red ! importent'}
+    /*const headstyle={color:'red ! importent'}*/
     return (
         <header id='header' /*style={headstyle}*/>
         
