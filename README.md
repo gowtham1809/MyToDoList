@@ -1,6 +1,6 @@
-# MyToDoList
+ To Do List :
 
-A to-do list is a effective tool for organizing tasks and managing time. 
+This is a effective tool for organizing tasks and managing time. 
 To-do lists can range from handwritten notes on paper to digital applications and can be used for personal, professional, or academic purposes. 
 They help individuals prioritize tasks, stay focused, and track progress towards their goals.
 
