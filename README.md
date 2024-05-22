@@ -7,7 +7,7 @@ They help individuals prioritize tasks, stay focused, and track progress towards
 --->How to Use
 1.To add a new task, type in the add item field at the top of the page and press Enter.
 2.Click on a checkboxes to mark it as completed. Click again to mark it as incomplete.
-3.click the delete button (X) to remove it from the list.
+3.click the delete button to remove it from the list.
 4.Use the  Search Item to filter the list.
 
 --->Technologies Used :
